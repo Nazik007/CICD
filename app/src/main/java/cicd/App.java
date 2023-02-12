@@ -8,6 +8,7 @@ public class App {
     public static void main(String[] args) {
         SumCalculator sumCalculator = new SumCalculator();
         System.out.println( "the number is " + sumCalculator.sum(3));
+        System.out.println(sumCalculator.sum(5));
 
     }
 }
