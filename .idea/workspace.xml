@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd8894ee-28bf-407a-beff-8bf60f0acac0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cd8894ee-28bf-407a-beff-8bf60f0acac0" name="Changes" comment="Test2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cicd/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cicd/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/cicd/SumCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/cicd/SumCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/test/java/cicd/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/cicd/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="newbranch" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -40,18 +40,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/nsovi/Desktop/JavaProjects/CICD",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nsovi/Desktop/JavaProjects/CICD&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Gradle.AppTest">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cicd.App" />
@@ -93,6 +93,9 @@
       <list>
         <item itemvalue="Gradle.AppTest" />
         <item itemvalue="Application.App" />
+        <item itemvalue="Gradle.AppTest" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Gradle.AppTest" />
       </list>
     </recent_temporary>
   </component>
@@ -105,8 +108,23 @@
       <option name="presentableId" value="Default" />
       <updated>1676237138792</updated>
       <workItem from="1676237140273" duration="112000" />
-      <workItem from="1676237484719" duration="709000" />
+      <workItem from="1676237484719" duration="1570000" />
     </task>
+    <task id="LOCAL-00001" summary="Test">
+      <created>1676238327476</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676238327476</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Test2">
+      <created>1676238462019</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676238462019</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,5 +140,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test" />
+    <MESSAGE value="Test2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test2" />
   </component>
 </project>
