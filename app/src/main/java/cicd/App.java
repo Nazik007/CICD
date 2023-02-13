@@ -9,6 +9,7 @@ public class App {
         SumCalculator sumCalculator = new SumCalculator();
         System.out.println( "the number is " + sumCalculator.sum(3));
         System.out.println(sumCalculator.sum(5));
+        System.out.println(sumCalculator.sum(4));
 
     }
 }
