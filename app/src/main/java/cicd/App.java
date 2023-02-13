@@ -10,6 +10,6 @@ public class App {
         System.out.println( "the number is " + sumCalculator.sum(3));
         System.out.println(sumCalculator.sum(5));
         System.out.println(sumCalculator.sum(4));
-
+        System.out.println(sumCalculator.sum(7));
     }
 }
