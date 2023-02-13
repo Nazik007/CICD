@@ -11,5 +11,6 @@ public class App {
         System.out.println(sumCalculator.sum(5));
         System.out.println(sumCalculator.sum(4));
         System.out.println(sumCalculator.sum(7));
+        System.out.println(sumCalculator.sum(2));
     }
 }
